@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d dist"
 
   },
-  "homepage": "https://JayadipSahoo.github.io/Meme--Generator",
+  "homepage": "https://JayadipSahoo.github.io/Meme--Generator/Meme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
